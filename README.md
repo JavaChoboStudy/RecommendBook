@@ -30,10 +30,21 @@
 1. [불친절한 SQL 프로그래밍](http://www.yes24.com/Product/Goods/64391533)
 2. [친절한 SQL 튜닝](http://www.yes24.com/Product/Goods/61254539)
 
+## Javascript
+1. [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567)
+2. [You Don’t Know JS](http://www.yes24.com/Product/Goods/44132601)
+3. [인사이드 자바스크립트 Inside JavaScript](http://www.yes24.com/Product/Goods/11781589)
+4. [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념](https://ridibooks.com/books/2773000055) **(무료!!)**
+
 ## CS
 1. [한 권으로 읽는 컴퓨터 구조와 프로그래밍](http://www.yes24.com/product/goods/102266032)
 2. [면접을 위한 CS 전공지식 노트](http://www.yes24.com/Product/Goods/109317449)
 3. [후니의 쉽게 쓴 시스코 네트워킹](http://www.yes24.com/Product/Goods/89520426)
+
+## Git
+1. [Must Have 박미정의 깃&깃허브 입문](http://www.yes24.com/Product/Goods/103525595)
+2. [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://ridibooks.com/books/2773000054) **(무료!!)**
+3. [Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문](http://www.yes24.com/Product/Goods/84803146)
 
 ## 추가 기술서적
 1. [HTTP 완벽 가이드](http://www.yes24.com/product/goods/109316072)
