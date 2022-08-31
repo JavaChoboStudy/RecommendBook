@@ -33,6 +33,7 @@
 ## CS
 1. [한 권으로 읽는 컴퓨터 구조와 프로그래밍](http://www.yes24.com/product/goods/102266032)
 2. [면접을 위한 CS 전공지식 노트](http://www.yes24.com/Product/Goods/109317449)
+3. [후니의 쉽게 쓴 시스코 네트워킹](http://www.yes24.com/Product/Goods/89520426)
 
 ## 추가 기술서적
 1. [HTTP 완벽 가이드](http://www.yes24.com/product/goods/109316072)
@@ -40,3 +41,4 @@
 3. [24시간 365일 서버/인프라를 지탱하는 기술](http://www.yes24.com/product/goods/3377489)
 4. [대규모 서비스를 지탱하는 기술](http://www.yes24.com/Product/Goods/4667932)
 5. [마이크로서비스 패턴](http://www.yes24.com/Product/Goods/86542732)
+6. [리눅스를 다루는 기술](http://www.yes24.com/Product/Goods/105803435)
