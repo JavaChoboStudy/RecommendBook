@@ -30,6 +30,9 @@
 1. <a href="http://www.yes24.com/Product/Goods/64391533" target="_blank">불친절한 SQL 프로그래밍</a>
 2. <a href="http://www.yes24.com/Product/Goods/61254539" target="_blank">친절한 SQL 튜닝</a>
 
+## DataBase Modeling
+1. <a href="http://www.yes24.com/Product/Goods/89872186" target="_blank">핵심 데이터 모델링</a>
+
 ## Javascript
 1. <a href="http://www.yes24.com/Product/Goods/92742567" target="_blank">모던 자바스크립트 Deep Dive</a>
 2. <a href="http://www.yes24.com/Product/Goods/44132601" target="_blank">You Don’t Know JS</a>
