@@ -19,6 +19,7 @@
 5. <a href="http://www.yes24.com/Product/Goods/91737015" target="_blank">Clean Code(클린 코드)</a>
 6. <a href="http://www.yes24.com/Product/Goods/90870798" target="_blank">이펙티브 자바 Effective Java 3/E</a>
 7. <a href="http://www.yes24.com/Product/Goods/111393077" target="_blank">자바 코딩 인터뷰 완벽 가이드</a>
+8. <a href="http://www.yes24.com/Product/Goods/108192370" target="_blank">헤드 퍼스트 디자인 패턴</a>
 
 ## Spring
 1. <a href="http://www.yes24.com/Product/Goods/7516911" target="_blank">토비의 스프링 3.1</a>
