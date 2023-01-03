@@ -61,3 +61,4 @@
 8. <a href="http://www.yes24.com/Product/Goods/32203210" target="_blank">TCP/IP 쉽게, 더 쉽게</a>
 9. <a href="http://www.yes24.com/Product/Goods/96262886" target="_blank">웹 성능 최적화 기법</a>
 10. <a href="http://www.yes24.com/Product/Goods/108192370" target="_blank">헤드 퍼스트 디자인 패턴</a>
+11. <a href="http://www.yes24.com/Product/Goods/67350256" target="_blank">함께 자라기 애자일로 가는 길</a>
