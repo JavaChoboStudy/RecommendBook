@@ -20,6 +20,9 @@
 6. <a href="http://www.yes24.com/Product/Goods/90870798" target="_blank">이펙티브 자바 Effective Java 3/E</a>
 7. <a href="http://www.yes24.com/Product/Goods/111393077" target="_blank">자바 코딩 인터뷰 완벽 가이드</a>
 8. <a href="http://www.yes24.com/Product/Goods/74219491" target="_blank">오브젝트 : 코드로 이해하는 객체지향 설계</a>
+9. <a href="http://www.yes24.com/Product/Goods/72161685" target="_blank">자바 최적화</a>
+10. <a href="http://www.yes24.com/Product/Goods/3015162" target="_blank">자바 병렬 프로그래밍</a>
+11. <a href="http://www.yes24.com/Product/Goods/77125987" target="_blank">모던 자바 인 액션</a>
 
 ## Spring
 1. <a href="http://www.yes24.com/Product/Goods/7516911" target="_blank">토비의 스프링 3.1</a>
@@ -28,8 +31,12 @@
 4. <a href="http://www.yes24.com/Product/Goods/96051853" target="_blank">코드로 배우는 스프링 부트 웹 프로젝트</a>
 
 ## DataBase
+#Oracle
 1. <a href="http://www.yes24.com/Product/Goods/64391533" target="_blank">불친절한 SQL 프로그래밍</a>
 2. <a href="http://www.yes24.com/Product/Goods/61254539" target="_blank">친절한 SQL 튜닝</a>
+#MySQL
+3. <a href="http://www.yes24.com/Product/Goods/105536167" target="_blank">Real MySQL 8.0(1권)</a>
+4. <a href="http://www.yes24.com/Product/Goods/105536168" target="_blank">Real MySQL 8.0(2권)</a>
 
 ## DataBase Modeling
 1. <a href="http://www.yes24.com/Product/Goods/89872186" target="_blank">핵심 데이터 모델링</a>
@@ -65,3 +72,4 @@
 12. <a href="http://www.yes24.com/Product/Goods/103413340" target="_blank">가상 면접 사례로 배우는 대규모 시스템 설계 기초</a>
 13. <a href="http://www.yes24.com/Product/Goods/115457586" target="_blank">그림으로 이해하는 가상화와 컨테이너</a>
 14. <a href="http://www.yes24.com/Product/Goods/108791897" target="_blank">도메인 주도 개발 시작하기</a>
+15. <a href="http://www.yes24.com/Product/Goods/89496122" target="_blank">운영체제</a>
