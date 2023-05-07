@@ -31,12 +31,12 @@
 4. <a href="http://www.yes24.com/Product/Goods/96051853" target="_blank">코드로 배우는 스프링 부트 웹 프로젝트</a>
 
 ## DataBase
-#Oracle
+### Oracle
 1. <a href="http://www.yes24.com/Product/Goods/64391533" target="_blank">불친절한 SQL 프로그래밍</a>
 2. <a href="http://www.yes24.com/Product/Goods/61254539" target="_blank">친절한 SQL 튜닝</a>
-#MySQL
-3. <a href="http://www.yes24.com/Product/Goods/105536167" target="_blank">Real MySQL 8.0(1권)</a>
-4. <a href="http://www.yes24.com/Product/Goods/105536168" target="_blank">Real MySQL 8.0(2권)</a>
+### MySQL
+1. <a href="http://www.yes24.com/Product/Goods/105536167" target="_blank">Real MySQL 8.0(1권)</a>
+2. <a href="http://www.yes24.com/Product/Goods/105536168" target="_blank">Real MySQL 8.0(2권)</a>
 
 ## DataBase Modeling
 1. <a href="http://www.yes24.com/Product/Goods/89872186" target="_blank">핵심 데이터 모델링</a>
