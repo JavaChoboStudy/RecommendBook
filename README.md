@@ -23,12 +23,16 @@
 9. <a href="http://www.yes24.com/Product/Goods/72161685" target="_blank">자바 최적화</a>
 10. <a href="http://www.yes24.com/Product/Goods/3015162" target="_blank">자바 병렬 프로그래밍</a>
 11. <a href="http://www.yes24.com/Product/Goods/77125987" target="_blank">모던 자바 인 액션</a>
+12. <a href="https://www.yes24.com/Product/Goods/126114513" target="_blank">JVM 밑바닥까지 파헤치기</a>
+13. <a href="https://www.yes24.com/Product/Goods/122445610" target="_blank">자바 알고리즘 인터뷰 with 코틀린</a>
 
 ## Spring
 1. <a href="http://www.yes24.com/Product/Goods/7516911" target="_blank">토비의 스프링 3.1</a>
 2. <a href="http://www.yes24.com/Product/Goods/83849117" target="_blank">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a>
 3. <a href="http://www.yes24.com/Product/Goods/89903855" target="_blank">배워서 바로 쓰는 스프링 부트 2</a>
 4. <a href="http://www.yes24.com/Product/Goods/96051853" target="_blank">코드로 배우는 스프링 부트 웹 프로젝트</a>
+5. <a href="https://www.yes24.com/Product/Goods/122002340" target="_blank">실전 스프링 부트</a>
+6. <a href="https://www.yes24.com/Product/Goods/125668284" target="_blank">스프링 부트 3 백엔드 개발자 되기 : 자바 편 (2판)</a>
 
 ## DataBase
 ### Oracle
@@ -73,3 +77,4 @@
 13. <a href="http://www.yes24.com/Product/Goods/115457586" target="_blank">그림으로 이해하는 가상화와 컨테이너</a>
 14. <a href="http://www.yes24.com/Product/Goods/108791897" target="_blank">도메인 주도 개발 시작하기</a>
 15. <a href="http://www.yes24.com/Product/Goods/89496122" target="_blank">운영체제</a>
+16. <a href="https://www.yes24.com/Product/Goods/105804670" target="_blank">SRE를 위한 시스템 설계와 구축</a>
