@@ -13,7 +13,7 @@
 
 ## Java
 1. <a href="http://www.yes24.com/Product/Goods/85632276" target="_blank">자바의 정석 기초편</a>
-2. <a href="http://www.yes24.com/Product/Goods/24259565" target="_blank">자바의 정석 3판</a>
+2. <a href="https://product.kyobobook.co.kr/detail/S000216877323" target="_blank">자바의 정석 4판</a>
 3. <a href="http://www.yes24.com/Product/Goods/102912324" target="_blank">객체지향의 사실과 오해</a>
 4. <a href="http://www.yes24.com/product/goods/90428435" target="_blank">리팩터링 2판</a>
 5. <a href="http://www.yes24.com/Product/Goods/91737015" target="_blank">Clean Code(클린 코드)</a>
